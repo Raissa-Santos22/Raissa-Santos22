@@ -1,5 +1,5 @@
 ## Olá Eu sou a Raissa Amorim dos Santos 💕
-- 💻 Sou estudante Curso Técnico em Desenvolvimento de Sistemas
+- 💻 Sou estudante do curso Técnico em Desenvolvimento de Sistemas
 - ✉️ Entre em contato comigo: raissaamorimdossantos3@gmail.com
 - 📒 Estudando Inglês
 - 📕 Leitora 
