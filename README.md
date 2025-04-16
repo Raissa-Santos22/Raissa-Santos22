@@ -4,7 +4,7 @@
 - 📒 Estudando Inglês
 - 📕 Leitora 
 
- Principais liguagens utilizada:
+ Principais liguagens utilizadas:
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raissa-Santos22&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
