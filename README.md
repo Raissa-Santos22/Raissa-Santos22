@@ -1,7 +1,7 @@
 ## Olá, sou a Raissa Amorim dos Santos 🎓👩‍💻 
 - Tenho 17 anos e moro em São Paulo
 - 💻 Desenvolvimento de Sistema 
-- 📖 Paixões : leitura e programação
+- 📖 Paixões : leitura e programação front-end e back-end
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) Entre em contato comigo: raissaamorimdossantos3@gmail.com 
 -  📚 English : Fluency Academy
 
