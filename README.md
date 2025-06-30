@@ -9,6 +9,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raissa-Santos22&show_icons=true&theme=radical)
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
+
 
 
 
