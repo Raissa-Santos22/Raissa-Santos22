@@ -1,5 +1,5 @@
 ## Olá, sou a Raissa Amorim dos Santos 🎓👩‍💻
-- Hobbies : leitura
+- 📖 Hobbies : leitura e estudar programação 
 - Tenho 17 anos e moro em São Paulo
 - 💻 Desenvolvimento de Sistema 
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) Entre em contato comigo: raissaamorimdossantos3@gmail.com 
