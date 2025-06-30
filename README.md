@@ -1,8 +1,8 @@
-## Olá Eu sou a Raissa Amorim dos Santos 💕
-- 💻 Sou estudante do curso Técnico em Desenvolvimento de Sistemas
-- ✉️ Entre em contato comigo: raissaamorimdossantos3@gmail.com
-- 📒 Estudando Inglês
-- 📕 Leitora 
+## Olá Eu sou a Raissa Amorim dos Santos 🎓
+- 💻 Estudando do 2 ano do curso técnico em Desenvolvimento de Sistema : Etec Uirapuru
+- 📧 Entre em contato comigo: raissaamorimdossantos3@gmail.com
+- 📚 Inglês : Fluency Academy
+- 
 
  Principais liguagens utilizadas:
  
