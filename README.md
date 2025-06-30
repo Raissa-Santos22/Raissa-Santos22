@@ -1,5 +1,7 @@
 ## Olá, sou a Raissa Amorim dos Santos 🎓👩‍💻
-- 💻 Estudante do 2 ano do curso técnico em Desenvolvimento de Sistema : Etec Uirapuru
+- Hobbies : leitura
+- Tenho 17 anos e moro em São Paulo
+- 💻 Desenvolvimento de Sistema 
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) Entre em contato comigo: raissaamorimdossantos3@gmail.com 
 -  📚 English : Fluency Academy
 
