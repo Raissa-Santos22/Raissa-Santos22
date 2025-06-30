@@ -1,10 +1,9 @@
-## Olá, sou a Raissa Amorim dos Santos 🎓
+## Olá, sou a Raissa Amorim dos Santos 🎓👩‍💻
 - 💻 Estudando do 2 ano do curso técnico em Desenvolvimento de Sistema : Etec Uirapuru
 - 📧 Entre em contato comigo: raissaamorimdossantos3@gmail.com
-- 📚 Inglês : Fluency Academy
-- 
+- 🇱🇷 📚 English : Fluency Academy
 
-## Principais liguagens utilizadas:
+## Principais linguagens utilizadas:
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raissa-Santos22&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
