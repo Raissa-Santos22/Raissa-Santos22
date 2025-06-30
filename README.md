@@ -10,7 +10,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raissa-Santos22&show_icons=true&theme=radical)
 
-	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 
 
 
