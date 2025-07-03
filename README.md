@@ -123,7 +123,7 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
 <br/>
   
   
-## 📊 Estastiticas
+## 📊 Estatísticas
 <p>
  <img
   align="left"
