@@ -1,18 +1,148 @@
-## Olá, sou a Raissa Amorim dos Santos 🎓👩‍💻 
-- Tenho 17 anos e moro em São Paulo
-- 💻 Atualmente cursando : Desenvolvimento de Sistemas 
-- 🧠 Apaixonada por tecnologia, literatura, programação front-end e back-end
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) Entre em contato comigo: raissaamorimdossantos3@gmail.com 
--  📚 English : Fluency Academy
+##  🎓👩‍💻🧠   Olá, sou a Raissa Amorim dos Santos
+Seja bem vindo ao meu perfil do github . Tenho 17 anos, moro em São Paulo e estou cursando Técnico em Desenvolvimento de Sistemas, sou apaixonada por tecnologia, programação e leitura. Futura desenvolvedora full-stack.
 
-## Principais linguagens utilizadas:
+Entre em contato comigo : raissaamorimdossantos3@gmail.com
+ <br>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raissa-Santos22&layout=compact)
+## 💻 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Nodejs"
+    title="Nodejs" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Kotlin"
+    title="Kotlin" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
+ />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Vscode" 
+    title="Vscode"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Inteliji" 
+    title="Inteliji"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raissa-Santos22&show_icons=true&theme=radical)
+<img 
+    align="left" 
+    alt="Android-Studio" 
+    title="Android-Studio"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+/>
 
-# 💻 Tecnologias e Ferramentas que utilizo
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,html,css,javascript,php,mysql,cpp,nodejs,github,git,notion,idea,androidstudio,vscode&theme=light)](https://skillicons.dev)
+<img 
+    align="left" 
+    alt="Notion" 
+    title="Notion"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
+/>
+<br/>
+<br/>
+  
+  
+## 📊 Estastiticas
+<p>
+ <img
+  align="left"
+  alt="Github Stats"
+  height="200"
+  style="padding-right:10px;"
+  src="https://github-readme-stats.vercel.app/api?username=Raissa-Santos22&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  >
+ <img
+   align="left"
+  alt="Github Stats"
+  height="200"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raissa-Santos22&layout=compact&custom_title=Tecnologias&langs_count=7"
+  >
+</p>
+
+
+ 
+
 
 
 
