@@ -9,7 +9,7 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -17,7 +17,7 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -25,7 +25,7 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -33,7 +33,7 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
     align="left" 
     alt="Nodejs"
     title="Nodejs" 
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
@@ -41,7 +41,7 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
@@ -49,7 +49,7 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
     align="left" 
     alt="Kotlin"
     title="Kotlin" 
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
  />
@@ -57,7 +57,7 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
     align="left" 
     alt="Java" 
     title="Java"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
@@ -65,7 +65,7 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
     align="left" 
     alt="C++" 
     title="C++"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
@@ -73,7 +73,7 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
     align="left" 
     alt="Vscode" 
     title="Vscode"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
@@ -81,7 +81,7 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
     align="left" 
     alt="Inteliji" 
     title="Inteliji"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
 />
@@ -89,7 +89,7 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
     align="left" 
     alt="MySql" 
     title="MySql"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
@@ -97,7 +97,7 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
     align="left" 
     alt="Git" 
     title="Git"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -106,7 +106,7 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
     align="left" 
     alt="Android-Studio" 
     title="Android-Studio"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
 />
@@ -115,7 +115,7 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
     align="left" 
     alt="Notion" 
     title="Notion"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
 />
