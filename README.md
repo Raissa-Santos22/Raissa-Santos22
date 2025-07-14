@@ -134,7 +134,7 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
   src="https://github-readme-stats.vercel.app/api?username=Raissa-Santos22&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   >
  <img
-   align="left"
+  align="left"
   alt="Github Stats"
   height="200"
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raissa-Santos22&layout=compact&custom_title=Tecnologias&langs_count=7"
