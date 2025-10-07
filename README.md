@@ -1,7 +1,7 @@
 ##  🎓🧠   Olá, sou a Raissa Amorim dos Santos
-<br - >Seja bem vindo ao meu perfil do Github.
+<br> - Seja bem vindo ao meu perfil do Github.
 <br> - Tenho 17 anos, moro em São Paulo 
-<br> -2 ano Técnico em Desenvolvimento de Sistemas, 
+<br> - Cursando Técnico em Desenvolvimento de Sistemas, 
 <br>- Apaixonada por tecnologia, programação e leitura. 
 <br>👩‍💻- Futura programada front-end
 
