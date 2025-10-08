@@ -1,14 +1,14 @@
-##  🎓🧠   Olá, sou a Raissa Amorim dos Santos
+##  🎓🧠  Olá, sou a Raissa Amorim dos Santos
 <br> - Seja bem vindo ao meu perfil do Github.
 <br> - Tenho 17 anos, moro em São Paulo 
 <br> - Cursando Técnico em Desenvolvimento de Sistemas, 
 <br>- Apaixonada por tecnologia, programação e leitura. 
-<br>👩‍💻- Futura programada front-end
+<br>- Futura programada front-end
 
 Entre em contato comigo : raissaamorimdossantos3@gmail.com
  <br>
 
-## 💻 Linguagens e Tecnologias
+## 💻 👩‍💻 Linguagens e Tecnologias
 <img 
     align="left" 
     alt="HTML"
