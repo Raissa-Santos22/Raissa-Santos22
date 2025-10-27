@@ -46,16 +46,10 @@ Entre em contato comigo : raissaamorimdossantos3@gmail.com
     alt="PHP" 
     title="PHP"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    style="padding-right: 10px
 />
-<img 
-    align="left" 
-    alt="Kotlin"
-    title="Kotlin" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
+ 
+
  />
 <img 
     align="left" 
