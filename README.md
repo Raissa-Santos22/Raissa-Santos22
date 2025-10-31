@@ -3,7 +3,7 @@
 <br> - Tenho 17 anos, moro em São Paulo 
 <br> - Cursando Técnico em Desenvolvimento de Sistemas, 
 <br>- Apaixonada por tecnologia, programação e leitura. 
-<br>- Futura programadora
+
 
 Entre em contato comigo : raissaamorimdossantos3@gmail.com
  <br>
