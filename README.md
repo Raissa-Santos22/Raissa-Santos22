@@ -33,6 +33,13 @@
 
 ---
 
+## 🌍 Idiomas
+
+- 🇧🇷 Português – Nativo  
+- 🇺🇸 Inglês – Intermediário (A2/B1)
+
+- --
+
 ## 💻 Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
