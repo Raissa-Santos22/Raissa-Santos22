@@ -30,16 +30,12 @@ Seja bem-vindo(a) ao meu perfil do GitHub!
 </div>
 
 ---
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Raissa-Santos22&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raissa-Santos22&layout=compact&custom_title=Tecnologias&langs_count=7&theme=tokyonight"
-  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raissa-Santos22&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raissa-Santos22&layout=compact&theme=tokyonight&cache_seconds=1800)
+
 </div>
