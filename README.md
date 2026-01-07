@@ -56,8 +56,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raissa-Santos22&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raissa-Santos22&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raissa-Santos22&theme=tokyonight" height="140" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raissa-Santos22&theme=tokyonight" height="140" />
 </div>
 
 ---
