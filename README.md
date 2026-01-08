@@ -56,8 +56,8 @@
 ## 🌟 Projetos em Destaque
 
 - [Weather App](https://github.com/Raissa-Santos22/Clima) – Consulta de clima usando Node.js e OpenWeather API  
-- [Sistema de Cadastro](https://github.com/Raissa-Santos22/GUI-Java-Sistema-de-Cadastro-de-Produto-e-Cliente) – CRUD completo em Java com MySQL 
--[Web Site Mente Aberta] (https://github.com/Raissa-Santos22/Site)- front end com html, css e JavaScript 
+- [Sistema de Cadastro](https://github.com/Raissa-Santos22/GUI-Java-Sistema-de-Cadastro-de-Produto-e-Cliente)  CRUD completo em Java com MySQL 
+-[Web Site Mente Aberta] (https://github.com/Raissa-Santos22/Site)front end com html, css e JavaScript 
 
 ---
 
