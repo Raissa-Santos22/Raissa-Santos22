@@ -10,7 +10,7 @@
 - 📚 Apaixonada por tecnologia, programação e leitura  
 - 🚀 Em constante aprendizado, com interesse em Engenharia de Software  
 
-**🎯 Objetivo:** Futuro Engenheira de Software, com foco em **Back-end**, desenvolvimento de APIs e integração com bancos de dados.  
+**🎯 Objetivo:** Futura Engenheira de Software, com foco em **Back-end**, desenvolvimento de APIs e integração com bancos de dados.  
 
 📫 **Contato:** raissaamorimdossantos3@gmail.com
 
@@ -49,6 +49,7 @@
   <img align="center" alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+ <img align="center" alt="PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 </div>
 
 ---
@@ -68,17 +69,6 @@
 </div>
 
 ---
-
-## 🏷 Badges de Skills
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-</p>
-
----
-
 ## 👨‍💻 Autor
 
 Criado por **Raissa Amorim dos Santos**  
