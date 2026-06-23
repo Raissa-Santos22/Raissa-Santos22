@@ -5,12 +5,10 @@
 
 ## 👩‍💻 Sobre mim
 
-- 🎓 Tenho 17 anos e moro em São Paulo  
+- 🎓 Tenho 18 anos e moro em São Paulo  
 - 💻 Estudante do curso Técnico em Desenvolvimento de Sistemas  
 - 📚 Apaixonada por tecnologia, programação e leitura  
 - 🚀 Em constante aprendizado, com interesse em Engenharia de Software  
-
-**🎯 Objetivo:** Futura Engenheira de Software, com foco em **Back-end**, desenvolvimento de APIs e integração com bancos de dados.  
 
 📫 **Contato:** raissaamorimdossantos3@gmail.com
 
